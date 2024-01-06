@@ -16,6 +16,7 @@
 		818CB82A2B431F5100E61C8B /* Test1_LoginTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 818CB8292B431F5100E61C8B /* Test1_LoginTests.swift */; };
 		818CB8342B431F5100E61C8B /* Test1_LoginUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 818CB8332B431F5100E61C8B /* Test1_LoginUITests.swift */; };
 		818CB8362B431F5100E61C8B /* Test1_LoginUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 818CB8352B431F5100E61C8B /* Test1_LoginUITestsLaunchTests.swift */; };
+		819FFA062B4341FA00418D22 /* Scene1.xib in Resources */ = {isa = PBXBuildFile; fileRef = 819FFA052B4341FA00418D22 /* Scene1.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		818CB82F2B431F5100E61C8B /* Test1_LoginUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Test1_LoginUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		818CB8332B431F5100E61C8B /* Test1_LoginUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Test1_LoginUITests.swift; sourceTree = "<group>"; };
 		818CB8352B431F5100E61C8B /* Test1_LoginUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Test1_LoginUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		819FFA052B4341FA00418D22 /* Scene1.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = Scene1.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				818CB8122B431F4F00E61C8B /* AppDelegate.swift */,
 				818CB8142B431F4F00E61C8B /* SceneDelegate.swift */,
 				818CB8162B431F4F00E61C8B /* ViewController.swift */,
+				819FFA052B4341FA00418D22 /* Scene1.xib */,
 				818CB8182B431F4F00E61C8B /* Main.storyboard */,
 				818CB81B2B431F5100E61C8B /* Assets.xcassets */,
 				818CB81D2B431F5100E61C8B /* LaunchScreen.storyboard */,
@@ -233,6 +236,7 @@
 			files = (
 				818CB81F2B431F5100E61C8B /* LaunchScreen.storyboard in Resources */,
 				818CB81C2B431F5100E61C8B /* Assets.xcassets in Resources */,
+				819FFA062B4341FA00418D22 /* Scene1.xib in Resources */,
 				818CB81A2B431F4F00E61C8B /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
